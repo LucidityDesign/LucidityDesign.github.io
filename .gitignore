@@ -1,0 +1,6 @@
+*
+!.gitignore
+!index.html
+!/public
+!/public/**
+.DS_Store
